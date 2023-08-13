@@ -1,0 +1,13 @@
+name: BFmed_SSD
+title: BFmed_SSD
+username:
+account: x-liu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9557621
+bundleId: 7560740
+url: https://x-liu.shinyapps.io/BFmed_SSD/
+when: 1691883821.38965
+lastSyncTime: 1691883821.38966
+asMultiple: FALSE
+asStatic: FALSE
